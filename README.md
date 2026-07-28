@@ -11,13 +11,13 @@ colaborador, sin restricciones.
 
 ## 📎 Demo desplegada
 
-<!-- TODO: agregar aquí el enlace a la app en Streamlit Community Cloud,
-     y una captura de pantalla o video corto (GIF/MP4) del agente
-     funcionando en la nube, como pide el desafío. -->
+**URL de la app:** https://agente-corporativo-documental.streamlit.app
 
-**URL de la app:** _pendiente_
+**Pantalla de inicio:**
+![Pantalla de inicio del agente](docs/Agente_Corpotativo_inicio.jpg)
 
-![Demo del agente](docs/demo.gif)
+**Ejemplo de pregunta respondida:**
+![Ejemplo de respuesta](docs/pregunta-respondida.jpg)
 
 ## Contexto organizacional cubierto
 
