@@ -14,7 +14,7 @@ colaborador, sin restricciones.
 **URL de la app:** https://agente-corporativo-documental.streamlit.app
 
 **Pantalla de inicio:**
-![Pantalla de inicio del agente](docs/Agente_Corpotativo_inicio.jpg)
+![Pantalla de inicio del agente](docs/agente_corpotativo_inicio.jpg)
 
 **Ejemplo de pregunta respondida:**
 ![Ejemplo de respuesta](docs/pregunta-respondida.jpg)
